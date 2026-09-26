@@ -157,14 +157,14 @@ canvas {
   background: #000;
   color: #ffffff;
   border-color: rgba(59, 130, 246, 0.55);
-  box-shadow: 0 0 14px rgba(37, 99, 235, 0.35);
+  /* box-shadow: 0 0 14px rgba(37, 99, 235, 0.35); */
 }
 
 .btn-utility.active-gold {
   /* background: rgba(245, 158, 11, 0.22);
   color: #ffffff; */
   border-color: rgba(251, 191, 36, 0.6);
-  box-shadow: 0 0 14px rgba(245, 158, 11, 0.35);
+  /* box-shadow: 0 0 14px rgba(245, 158, 11, 0.35); */
 }
 
 .btn-utility .btn-icon {
